@@ -1,2 +1,2 @@
-# MCQ
-It contains full source code of multi-choice-questions for technical99.com
+# Tutorials
+Contains code examples of corresponding articles for technical99.com
